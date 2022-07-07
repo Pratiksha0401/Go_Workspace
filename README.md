@@ -34,5 +34,6 @@ $filename
 
 <br/>
 <br/>
-slice_intersection.go:6:2: no required module provides package golang.org/x/exp/constraints; to add it:
-    run go cmd =>  $go get golang.org/x/exp/constraints
+#slice_intersection.go:6:2: no required module provides package golang.org/x/exp/constraints; to add it:
+<br/>
+run go cmd =>  $go get golang.org/x/exp/constraints
