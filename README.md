@@ -31,3 +31,8 @@ $filename
 
 <br/>
 #you cannot have main function in same directory more than one but if you have then test them by running separately
+
+<br/>
+<br/>
+slice_intersection.go:6:2: no required module provides package golang.org/x/exp/constraints; to add it:
+    run go cmd =>  $go get golang.org/x/exp/constraints
